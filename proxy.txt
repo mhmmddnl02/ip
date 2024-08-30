@@ -3,3 +3,4 @@ alibaba.nex.sh
 amazon.nex.sh
 oracle.nex.sh
 ovh.nex.sh
+202.10.42.30
