@@ -1,0 +1,5 @@
+digitalocean.nex.sh
+alibaba.nex.sh
+amazon.nex.sh
+oracle.nex.sh
+ovh.nex.sh
