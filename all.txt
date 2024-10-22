@@ -18,6 +18,7 @@
 111.95.40.14:32414, Linknet Fastnet (ID)
 8.215.19.204:587, Alibaba (ID)
 38.60.171.111:587, Kaopu Cloud (ID)
+147.139.245.56:443, Alibaba (ID)
 147.139.243.188:587, Alibaba (ID)
 172.232.239.219:587, Akamai Connected Cloud (ID)
 172.232.252.119:587, Akamai Connected Cloud (ID)
