@@ -22,7 +22,6 @@
 166.88.35.141:443, MY Evoxt Enterprise
 210.186.12.244:443, MY TM Net
 47.250.115.160:80, MY Alibaba
-47.250.186.105:8443, MY Alibaba
 54.251.167.101:443, SG Amazoncom
 3.1.94.232:443, SG Amazoncom
 207.148.68.228:80, SG Vultr
