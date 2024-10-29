@@ -11,6 +11,8 @@
 35.219.50.99,443,ID,Google LLC
 35.219.15.90,443,ID,Google LLC
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
+147.139.245.56,443,ID,Alibaba
+147.139.243.188,587,ID,Alibaba
 103.180.161.10,587,SG,HONG KONG Megalayer Technology Co
 5.223.41.42,443,SG,Hetzner Online
 38.181.70.7,16240,SG,Eons Data Communications
