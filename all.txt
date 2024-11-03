@@ -4,11 +4,8 @@
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,Cloud Teknologi Nusantara
 103.133.223.51,2096,ID,Cloud Teknologi Nusantara
-8.215.23.109,587,ID,Alibaba
-8.215.23.33,587,ID,Alibaba
 147.139.245.56,443,ID,Alibaba
 147.139.243.188,587,ID,Alibaba
-165.154.48.233,587,ID,Ucloud Information Technology Hk
 172.232.239.151,587,ID,Akamai Connected Cloud
 172.232.239.249,587,ID,Akamai Connected Cloud
 172.232.239.175,587,ID,Akamai Connected Cloud
