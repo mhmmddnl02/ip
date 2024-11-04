@@ -1,4 +1,4 @@
-103.133.223.52,2096,ID,Cloud 103.168.146.169,20132,ID,PT Herza Digital Indonesia
+103.168.146.169,20132,ID,PT Herza Digital Indonesia
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara
