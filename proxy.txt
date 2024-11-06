@@ -2536,7 +2536,7 @@
 45.145.6.65,8443,NL,CGI GLOBAL LIMITED
 45.145.6.65,2086,NL,CGI GLOBAL LIMITED
 45.145.6.65,2087,NL,CGI GLOBAL LIMITED
-88.218.94.63,8443,RO,Fast Geo Hosting
+88.218.94.63,8443,NL,Fast Geo Hosting
 94.103.95.115,443,NL,Servers Tech Fzco
 31.172.78.69,443,NL,WorldStream
 5.8.47.93,443,NL,Llhost
@@ -2787,7 +2787,7 @@
 185.238.169.177,443,NL,Scalaxy
 109.107.164.39,443,NL,Servers Tech Fzco
 50.7.23.78,2096,NL,Fdcservers
-185.155.220.64,443,AT,Schokker IT
+185.155.220.64,443,NL,Schokker IT
 45.91.169.91,2096,NL,Kamatera Inc
 89.169.13.214,443,NL,Sevasteev Artem Nikolaevich
 80.92.206.9,443,NL,PQ HOSTING SRL
@@ -3721,8 +3721,8 @@
 40.83.126.26,50103,HK,Microsoft Azure
 183.178.191.182,33769,HK,Hong Kong Broadband Network
 141.11.219.114,8080,HK,Akile
-194.246.114.73,8443,MD,Stark Industries Solutions
-194.246.114.73,2053,MD,Stark Industries Solutions
+194.246.114.73,8443,HK,Stark Industries Solutions
+194.246.114.73,2053,HK,Stark Industries Solutions
 206.237.4.137,16377,HK,Overland Storage
 213.130.143.166,443,HK,Spike Telecom
 103.103.245.51,16118,HK,Cnservers LLC
@@ -4037,7 +4037,7 @@
 172.83.159.4,27398,US,Spartan Host
 172.83.159.4,16478,US,Spartan Host
 172.83.159.4,41389,US,Spartan Host
-38.59.242.216,30011,MY,Evoxt Enterprise
+38.59.242.216,30011,US,Evoxt Enterprise
 47.90.140.40,44203,US,Alibaba
 47.90.140.40,15624,US,Alibaba
 5.161.147.20,8440,US,Hetzner Online
@@ -5225,7 +5225,7 @@
 5.200.94.190,30001,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co PJS
 5.160.90.63,21888,IR,Respina Networks & Beyond PJSC
 78.109.200.19,443,IR,Teknosos Bilisim Hizmetleri Ve Tic Sti
-185.83.182.208,2053,CA,OVH Hosting
+185.83.182.208,2053,IR,OVH Hosting
 176.65.242.108,8443,IR,Aeza International
 84.47.232.31,7500,IR,Hetzner Online
 84.47.232.31,443,IR,netcup
@@ -5347,7 +5347,7 @@
 193.151.130.18,2053,IR,Hetzner Online GmbH
 93.127.181.253,2053,IR,Online Server Telekomunikasyon Sirketi
 193.151.130.18,8443,IR,Hetzner Online GmbH
-89.235.116.135,82,DK,Global Internet Solutions
+89.235.116.135,82,IR,Global Internet Solutions
 85.9.123.161,2082,IR,Vultr
 89.47.202.154,2053,IR,Hetzner Online
 89.47.202.154,8443,IR,Hetzner Online
@@ -5586,7 +5586,7 @@
 213.176.2.71,8443,IR,Hetzner Online
 217.219.78.92,2021,IR,netcup
 213.176.2.93,25257,IR,Hetzner Online
-78.110.122.82,2053,KR,SK Broadband
+78.110.122.82,2053,IR,SK Broadband
 185.58.240.7,2083,IR,Sefroyek Pardaz Engineering PJSC
 89.47.200.13,4433,IR,Hetzner Online
 89.47.200.13,4444,IR,Hetzner Online
@@ -5605,7 +5605,7 @@
 2.189.255.125,8443,IR,1&1 Internet AG
 31.14.116.122,16286,IR,Hetzner Online
 185.158.175.251,8080,IR,Hetzner Online
-185.29.222.243,2096,PL,OVHcloud
+185.29.222.243,2096,IR,OVHcloud
 195.158.230.135,8443,IR,G-Core Labs SA
 62.60.177.120,2053,IR,Hetzner Online
 194.9.56.74,2084,IR,OVHcloud
@@ -6846,8 +6846,8 @@
 193.228.1.98,2053,TR,TradeZone
 2.56.127.189,2083,TR,Stark Industries Solutions
 193.228.1.98,8443,TR,TradeZone
-5.180.45.54,50001,DE,Hetzner Online
-5.180.45.54,50003,DE,Hetzner Online
+5.180.45.54,50001,TR,Hetzner Online
+5.180.45.54,50003,TR,Hetzner Online
 104.239.87.213,2053,TR,Baxet Group Inc
 104.239.87.213,8443,TR,Baxet Group Inc
 195.244.41.109,2096,TR,Netdirekt AS
@@ -6878,8 +6878,8 @@
 91.208.206.103,443,MD,Alexhost
 91.208.197.25,443,MD,Alexhost
 176.123.8.150,443,MD,Alexhost
-93.185.165.65,2053,RU,Sc Infotech-grup
-93.185.165.65,8443,RU,Sc Infotech-grup
+93.185.165.65,2053,MD,Sc Infotech-grup
+93.185.165.65,8443,MD,Sc Infotech-grup
 45.67.229.128,81,MD,PQ HOSTING SRL
 45.84.0.78,443,MD,PQ HOSTING SRL
 45.140.146.91,443,MD,PQ HOSTING SRL
@@ -7005,7 +7005,7 @@
 91.245.225.69,443,CH,Big Data Host
 94.131.12.218,443,CH,Stark Industries Solutions
 193.168.144.81,443,CH,Serverd SAS
-91.90.193.24,443,BG,Friendhosting LTD
+91.90.193.24,443,CH,Friendhosting LTD
 179.43.155.21,443,CH,Private Layer
 38.180.84.46,443,CH,Private Layer
 152.67.65.201,443,CH,Oracle Cloud
@@ -9756,8 +9756,8 @@
 95.164.35.13,2053,PL,Stark Industries Solutions
 51.83.196.232,8443,PL,OVHcloud
 95.164.35.13,8443,PL,Stark Industries Solutions
-95.164.90.11,2053,NL,Kutumova Olena
-95.164.90.11,8443,NL,Kutumova Olena
+95.164.90.11,2053,PL,Kutumova Olena
+95.164.90.11,8443,PL,Kutumova Olena
 51.83.228.224,8443,PL,OVHcloud
 51.38.152.165,2053,PL,OVHcloud
 54.38.142.78,8443,PL,OVHcloud
@@ -11240,7 +11240,7 @@
 161.35.24.120,9145,DE,Digital Ocean
 161.35.24.120,3728,DE,Digital Ocean
 3.70.219.196,443,DE,Amazoncom
-45.135.165.139,443,AE,Big Data Host
+45.135.165.139,443,DE,Big Data Host
 2.59.135.223,5001,DE,dataforest
 2.59.135.223,15002,DE,dataforest
 94.131.109.103,443,DE,Stark Industries Solutions LTD
@@ -11326,7 +11326,7 @@
 89.22.232.86,443,DE,VDSinacom
 94.228.169.192,443,DE,Aeza International
 95.179.166.107,443,DE,Vultr
-195.74.93.162,995,RO,Interkvm Host
+195.74.93.162,995,DE,Interkvm Host
 46.4.144.65,4433,DE,Hetzner Online
 128.140.36.134,1000,DE,Hetzner Online
 188.245.112.108,445,DE,Hetzner Online GmbH
@@ -11525,7 +11525,7 @@
 46.8.225.18,2087,FR,CGI GLOBAL LIMITED
 193.42.63.141,2083,FR,velianet Internetdienste
 193.243.147.107,587,FR,OVHcloud
-94.232.247.40,443,MD,Stark Industries Solutions
+94.232.247.40,443,FR,Stark Industries Solutions
 91.134.98.248,1982,FR,OVHcloud
 91.134.98.248,1983,FR,OVHcloud
 51.178.80.31,8668,FR,OVHcloud
@@ -11562,7 +11562,7 @@
 109.176.244.97,8443,FR,OVHcloud
 178.32.232.132,2053,FR,OVHcloud
 109.176.244.97,2053,FR,OVHcloud
-57.129.70.195,8443,DE,OVHcloud
+57.129.70.195,8443,FR,OVHcloud
 178.32.106.119,2053,FR,OVHcloud
 88.218.78.153,443,FR,velianet Internetdienste
 144.24.193.44,16159,FR,Oracle Cloud
@@ -11571,7 +11571,7 @@
 95.182.97.35,2053,FR,CGI GLOBAL LIMITED
 92.222.206.65,8443,FR,OVHcloud
 92.222.206.65,2053,FR,OVHcloud
-57.129.70.195,2053,DE,OVHcloud
+57.129.70.195,2053,FR,OVHcloud
 137.74.198.216,8443,FR,OVHcloud
 137.74.198.216,2053,FR,OVHcloud
 51.38.48.190,2053,FR,OVHcloud
