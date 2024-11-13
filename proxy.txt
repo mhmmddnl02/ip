@@ -1,8 +1,10 @@
+8.215.25.225,40422,ID,Alibaba
 36.67.224.229,26400,ID,PT Telekomunikasi Indonesia
 8.215.59.6,443,ID,Alibaba
 103.168.146.169,20132,ID,PT Herza Digital Indonesia
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
+103.186.1.209,8443,ID,PT Cloud Hosting Indonesia
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,Cloud Teknologi Nusantara
 103.133.223.51,2096,ID,Cloud Teknologi Nusantara
@@ -18,21 +20,25 @@
 43.133.145.156,53136,ID,Tencent cloud computing
 101.50.0.114,8443,ID,PT Beon Multimedia
 203.194.112.119,2053,ID,Rumahweb
+203.194.112.119,8443,ID,Rumahweb
 35.219.50.99,443,ID,Google LLC
 35.219.15.90,443,ID,Google LLC
-166.88.35.141,443,MY,Evoxt Enterprise
-210.186.12.244,443,MY,TM Net
-38.60.195.203,10478,MY,Kaopu Cloud Hk Limited
-23.27.199.249,2053,MY,Evoxt Enterprise
-23.27.199.249,8443,MY,Evoxt Enterprise
-38.60.194.202,33191,MY,Kaopu Cloud Hk Limited
-45.195.76.190,29690,MY,Evoxt Enterprise
-45.195.69.98,30726,MY,Evoxt Enterprise
 103.159.132.61,33999,MY,Gigabit Hosting Sdn Bhd
-154.90.39.188,48071,MY,LightNode_Limited
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-111.90.148.129,2053,MY,Shinjiru Technology Sdn Bhd
+45.195.76.190,29690,MY,Evoxt Enterprise
 111.90.148.129,8443,MY,Shinjiru Technology Sdn Bhd
+23.27.199.249,8443,MY,Evoxt Enterprise
+166.88.35.141,443,MY,Evoxt Enterprise
+23.27.199.249,2053,MY,Evoxt Enterprise
+111.90.148.129,2053,MY,Shinjiru Technology Sdn Bhd
+45.195.69.98,30726,MY,Evoxt Enterprise
+210.186.12.244,443,MY,TIME Fibre Optic
+1.9.155.203,36673,MY,TM Net
+38.60.195.203,10478,MY,Kaopu Cloud Hk Limited
+38.60.194.202,33191,MY,Kaopu Cloud Hk Limited
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+154.90.39.188,48071,MY,LightNode_Limited
+123.253.33.182,12306,MY,Gigabit Hosting Sdn Bhd
+161.142.255.98,443,MY,TIME Fibre Optic
 5.223.41.42,443,SG,Hetzner Online
 47.245.113.31,57146,SG,Alibaba
 47.236.22.194,52324,SG,Alibaba
