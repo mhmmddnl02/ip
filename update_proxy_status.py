@@ -21,8 +21,8 @@ def main():
                 port = row[1].strip()
                 api_url = api_url_template.format(ip=ip, port=port)
                 try:
-                    # Jeda 3 detik sebelum memproses setiap proxy
-                    time.sleep(3)
+                    # Jeda 2 detik sebelum memproses setiap proxy
+                    time.sleep(2)
                     response = requests.get(api_url, timeout=10)
                     response.raise_for_status()  # Memastikan respons HTTP sukses
                     data = response.json()
