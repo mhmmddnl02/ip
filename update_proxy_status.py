@@ -2,6 +2,7 @@ import requests
 import csv
 import shutil
 import os
+import time  # Tambahkan modul time
 
 def main():
     input_file = os.getenv('IP_FILE', 'ip.txt')
@@ -20,6 +21,8 @@ def main():
                 port = row[1].strip()
                 api_url = api_url_template.format(ip=ip, port=port)
                 try:
+                    # Jeda 3 detik sebelum memproses setiap proxy
+                    time.sleep(3)
                     response = requests.get(api_url, timeout=10)
                     response.raise_for_status()  # Memastikan respons HTTP sukses
                     data = response.json()
