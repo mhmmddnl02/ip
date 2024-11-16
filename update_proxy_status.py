@@ -7,7 +7,7 @@ import time  # Tambahkan modul time
 def main():
     input_file = os.getenv('IP_FILE', 'ip.txt')
     output_file = 'ip_updated.txt'
-    api_url_template = os.getenv('API_URL', 'https://apix.sonzaix.us.kg/?ip={ip}:{port}')
+    api_url_template = os.getenv('API_URL', 'https://bitzblack.my.id/api?ip={ip}:{port}')
 
     alive_proxies = []
 
@@ -27,9 +27,9 @@ def main():
                     response.raise_for_status()  # Memastikan respons HTTP sukses
                     data = response.json()
                     status = data.get("proxyStatus", "").upper()
-                    if status == "✅ ALIVE ✅":
+                    if status == "✅ ACTIVE ✅":
                         alive_proxies.append(row)
-                        print(f"{ip}:{port} is ALIVE")
+                        print(f"{ip}:{port} is ACTIVE")
                     else:
                         print(f"{ip}:{port} is DEAD")
                 except requests.exceptions.RequestException as e:
