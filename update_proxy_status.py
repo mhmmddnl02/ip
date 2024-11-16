@@ -26,12 +26,13 @@ def main():
                     response = requests.get(api_url, timeout=10)
                     response.raise_for_status()  # Memastikan respons HTTP sukses
                     data = response.json()
-                    status = data.get("proxyip", "").upper()
-                    if status == "true":
-                        alive_proxies.append(row)
-                        print(f"{ip}:{port} is ACTIVE")
+                    proxyip = data.get("proxyip", "")
+                    if isinstance(proxyip, bool):
+                        status = proxyip
+                    elif isinstance(proxyip, str):
+                        status = proxyip.strip().lower() == "true"
                     else:
-                        print(f"{ip}:{port} is DEAD")
+                        status = False
                 except requests.exceptions.RequestException as e:
                     print(f"Error checking {ip}:{port}: {e}")
     except FileNotFoundError:
