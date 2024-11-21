@@ -31,7 +31,6 @@
 210.186.12.244,443,MY,TIME Fibre Optic
 35.219.50.99,443,ID,Google LLC
 154.90.39.188,48071,MY,LightNode_Limited
-8.215.59.6,443,ID,Alibaba
 111.90.148.129,8443,MY,Shinjiru Technology Sdn Bhd
 103.159.132.61,33999,MY,Gigabit Hosting Sdn Bhd
 172.232.239.134,587,ID,Akamai Connected Cloud
