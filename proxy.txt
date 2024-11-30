@@ -1,3 +1,11 @@
+143.42.66.91,443,SG,Akamai Technologies
+188.166.241.181,2053,SG,Digitalocean LLC
+150.230.27.23,16504,CA,Oracle Corporation
+163.172.89.158,81,FR,SCALEWAY S.A.S.
+138.3.214.161,2086,JP,Oracle Corporation
+103.133.223.51,2096,ID,Pt Cloud Teknologi
+35.219.15.90,443,ID,Google LLC
+130.61.222.184,443,DE,Oracle Corporation
 47.236.181.185,8443,SG,Alibaba
 188.166.255.195,8443,SG,Digital Ocean
 47.236.22.194,52324,SG,Alibaba
