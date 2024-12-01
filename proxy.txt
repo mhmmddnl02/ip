@@ -1,3 +1,29 @@
+155.248.178.58,80,JP,Oracle Corporation
+198.13.39.108,81,JP,The Constant Company
+62.72.46.14,8443,SG,Contabo Asia Private
+138.3.214.161,2086,JP,Oracle Corporation
+61.195.129.225,10043,JP,IGAUENO CABLE TELEVISION
+210.79.155.183,443,TW,Akari Networks
+115.86.106.85,50001,KR,Lg Hellovision Corp
+34.143.192.60,443,SG,Google LLC
+8.215.25.225,40422,ID,Alibaba us Technology
+172.232.239.151,587,ID,Akamai Technologies
+103.168.146.169,20132,ID,Pt Herza Digital
+103.6.207.108,8080,ID,Pt Pusat Media
+103.133.223.52,2096,ID,Pt Cloud Teknologi
+138.2.74.219,28616,SG,Oracle Corporation
+172.93.165.228,443,HK,Gigabit Hosting Sdn
+43.128.26.74,443,HK,Shenzhen Tencent
+156.230.12.71,443,HK,Shanghai Communications
+51.79.254.182,443,SG,OVH SAS
+130.61.107.238,8443,DE,Oracle Corporation
+158.178.206.197,2053,FR,Oracle Corporation
+144.22.252.124,443,BR,Oracle Corporation
+150.230.20.156,2053,NL,Oracle Corporation
+140.238.158.238,443,CA,Oracle Corporation
+192.9.180.162,443,AU,Oracle Corporation
+47.57.245.232,443,HK,Alibaba us Technology
+185.188.147.79,443,PL,G core Labs
 130.61.222.184,443,DE,Oracle Corporation
 20.78.8.44,31593,JP,Microsoft Corporation
 15.235.197.205,587,SG,OVHcloud
